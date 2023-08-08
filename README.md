@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm siddharth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from India</h3>
 
-- 🔭 I’m currently working on **vue js project**
+- 🔭 I’m currently working on **React js project**
 
-- 🌱 I’m currently learning **frameworks**
+- 🤝 I’m looking for help with **React js**
 
-- 🤝 I’m looking for help with **vue js**
-
-- 💬 Ask me about **HTML,CSS and JAVA**
+- 💬 Ask me about **HTML,CSS and JAVASCRIPT**
 
 - 📫 How to reach me **siddhu1419@gmail.com**
 
