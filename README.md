@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **React js**
 
-- 💬 Ask me about **HTML,CSS and JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT and React**
 
 - 📫 How to reach me **siddhu1419@gmail.com**
 
